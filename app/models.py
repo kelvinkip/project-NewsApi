@@ -1,5 +1,3 @@
-from unicodedata import category
-
 
 class Source:
     """
