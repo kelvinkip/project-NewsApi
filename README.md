@@ -49,7 +49,7 @@ Go to the browser
 </ul>
 
 ## Support and contact details
-In case of any contributions or questions, email nancy.mwende@student.moringaschool.com or nancymwende@gmail.com
+In case of any contributions or questions, email kelvinkipla@gmail.com
 
 ### License
 
