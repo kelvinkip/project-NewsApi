@@ -1,4 +1,4 @@
-#!/home/moriga/Documents/project-news-api/project-new-api/bin/python3
+#!/home/moriga/Documents/project-news-api/virtual/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
