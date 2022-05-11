@@ -8,5 +8,5 @@ manager = Manager(app)
 manager .add_command('server',Server)
 
 if __name__ == '__main__':
-     app.run(host='0.0.0.0', port=6015)
+     app.run()
 
